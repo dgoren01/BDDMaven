@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="37.439582">
+    <testcase classname="OrangeHRM Login Feature" name="Login Scenario" time="14.73231">
+        <system-out><![CDATA[Given user is on orangeHRM home page........................................passed
+When Appliction page title is OrangeHRM.....................................passed
+Then user enters "Admin" and "admin123".....................................passed
+And user clicks on login button.............................................passed
+When user navigate to user profile page.....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="OrangeHRM Login Feature" name="User Login scenario" time="22.707272">
+        <system-out><![CDATA[Given user is on application home page1.....................................passed
+When Appliction page title is FreeCRM.......................................passed
+Then user provides "deepaksilversky007@gmail.com" and "Mahadev@01"..........passed
+And user clicks on login button1............................................passed
+When user navigate to user profile page1....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
